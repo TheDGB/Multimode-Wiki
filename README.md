@@ -24,13 +24,13 @@ Além de você me ajudar para não morrer de fome, você pode ter todos os conte
 
 ---
 
-## About
+## Sobre
 
 Este é um plugin util para o SourceMod recria o Map Chooser/UMC como um map chooser de multimodos para especificamente servidores multimodo.
 
 Inspirado no Map Chooser do SourceMod e no UMC (Ultimate Map Chooser).
 
-### Special thanks:
+### Creditos:
 [what.rf](https://steamcommunity.com/id/RayanFhoulaBR/) - Por arrumar o end vote do Multimode Core.
 
 [Cara da Old Spice (Old Spice Guy)](https://steamcommunity.com/id/IgorKock/) - Por me ajudar a testar o Run Off e progresso dele.
