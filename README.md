@@ -20,7 +20,7 @@ Of course, I acted on impulse when I started this project—a public one—becau
 
 So, with a **heavy heart**, I’ll be making this a **PAID PROJECT**.
 
-In addition to helping me **avoid starving**, you’ll **gain access to all content related to Multimode Core (including the private files I’d created)**, along with private access to my OLD public repository (which I’ll eventually update, along with others)—of course, with your permission and support.
+In addition to helping me ~~avoid starving~~ (i'm still going to starve :skull:), you’ll **gain access to all content related to Multimode Core (including the private files I’d created)**, along with private access to my OLD public repository (which I’ll eventually update, along with others)—of course, with your permission and support.
 
 ### Buy it for $7.73 or R$39.90 and support my work here! > https://dgbr.gumroad.com/l/multimodecore
 
