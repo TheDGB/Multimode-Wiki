@@ -12,15 +12,15 @@
 
 ## ⚠️ Why is Multimode Core+ now paid?
 
-I’ve been thinking about the project these past few days and came to a conclusion: I want to turn this into a paid project, where you can pay a small amount of money and get our project in your hands.
+I’ve been thinking about the project these past few days and came to a conclusion: I wanted to turn this into a paid project, where you can pay a small amount of money and get our project in your hands.
 
 We haven’t received any donations since the project began, so I realized that my work might be going to waste. My unique content, just thrown out there on the internet.
 
 Of course, I acted on impulse when I started this project—a public one—because I didn’t know how far it would go or how complex it would become.
 
-So, with a heavy heart, I’ll be making this a paid project.
+So, with a **heavy heart**, I’ll be making this a **PAID PROJECT**.
 
-In addition to helping me avoid starving, you’ll gain access to all content related to Multimode Core (including the private files I’d created), along with private access to my OLD public repository (which I’ll eventually update, along with others)—of course, with your permission and support.
+In addition to helping me **avoid starving**, you’ll **gain access to all content related to Multimode Core (including the private files I’d created)**, along with private access to my OLD public repository (which I’ll eventually update, along with others)—of course, with your permission and support.
 
 ### Buy it for $7.73 or R$39.90 and support my work here! > https://dgbr.gumroad.com/l/multimodecore
 
