@@ -20,7 +20,7 @@ So, with a heavy heart, I’ll be making this a paid project.
 
 In addition to helping me avoid starving, you’ll gain access to all content related to Multimode Core (including the private files I’d created), along with private access to my OLD public repository (which I’ll eventually update, along with others)—of course, with your permission and support.
 
-Buy it and support my work here! > https://dgbr.gumroad.com/l/multimodecore
+### Buy it and support my work here! > https://dgbr.gumroad.com/l/multimodecore
 
 ---
 
