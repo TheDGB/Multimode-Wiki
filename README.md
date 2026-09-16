@@ -55,7 +55,7 @@ Do you have a suggestion for the plugin? You can make a **pull request!**
 ## Wiki
 You can head over to our Multimode Core+ wiki for more information about the plugin!
 
-#### [Multimode Core+ Wiki](https://github.com/TheDGB/multimode_core/wiki)
+#### [Multimode Core+ Wiki](https://github.com/TheDGB/Multimode-Wiki/wiki)
 
 # Donations
 
