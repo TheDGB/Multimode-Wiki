@@ -3,6 +3,7 @@
 <div align="center">
 
 ⚠️ **Multimode Core+ is now a paid project.** Please read the following section before continuing.
+Versão Brasileira aqui! > https://github.com/TheDGB/Multimode-Wiki/tree/main-br
 
 </div>
 
