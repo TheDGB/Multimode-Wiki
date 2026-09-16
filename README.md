@@ -32,8 +32,6 @@ Inspired by Map Chooser from SourceMod and UMC (Ultimate Map Chooser).
 
 Do you have a suggestion for the plugin? You can make a **pull request!**
 
-> ***(Warning: Remembering that this plugin is completely in beta, so expect problems in the plugin, any problem use the ["Issues"](https://github.com/TheDGB/Multimode-Core/issues) section for any problem report.)***
-
 ### Special thanks:
 [what.rf](https://steamcommunity.com/id/RayanFhoulaBR/) - For fixing Multimode Core's check end vote.
 
