@@ -66,6 +66,4 @@ Since multimode core support will always be active for now, updating and making 
 <h1 align=center>Enjoy The Plugin!</h1> 
 <div align=center>
   
-[![](https://dcbadge.limes.pink/api/server/xftqrvZSAw)](https://discord.gg/xftqrvZSAw) [![](http://fastdl.optr.me:8090/embed/steamgroup3.png)](https://steamcommunity.com/groups/optr-me)
-
 </div>
