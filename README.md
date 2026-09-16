@@ -18,7 +18,7 @@ Claro que eu agi por impulsão ao iniciar esse projeto, um projeto público, poi
 
 Então, com muita dor no coração, estarei deixando esse projeto pago.
 
-Além de você me ajudar para não morrer de fome, você pode ter todos os conteúdos envolvendo o Multimode Core (até os privados que eu tinha feito), junto com também um acesso privado do meu ANTIGO repositório público (que irei eventualmente atualizar e outros), claro, com a sua permissão e apoio.
+Além de você me ajudar para não PASSAR fome, você pode ter todos os conteúdos envolvendo o Multimode Core (até os privados que eu tinha feito), junto com também um acesso privado do meu ANTIGO repositório público (que irei eventualmente atualizar e outros), claro, com a sua permissão e apoio.
 
 ### Compre por R$ 39,90 e apoie meu trabalho aqui! > https://dgbr.gumroad.com/l/multimodecore
 
