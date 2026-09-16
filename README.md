@@ -43,7 +43,9 @@ Do you have a suggestion for the plugin? You can make a **pull request!**
 
 [Ribas](https://steamcommunity.com/id/ribasgabe/) - Owner of Oppressive Territory Hosting.
 
-[Oppressive Territory Community](https://optr.me) - Community, testing and debuging the Multimode Core.
+[Oppressive Territory Community](https://optr.me) - Legacy community, testing, and debugging.
+
+[Domínio Hue Hue BR](https://huehuebr.com) - Community, testing, and debugging.
 
 #### Supported Games.
 - Team Fortress 2
