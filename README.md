@@ -47,8 +47,8 @@ Do you have a suggestion for the plugin? You can make a **pull request!**
 
 #### Supported Games.
 - Team Fortress 2
-- Counter-Strike Source (Not Tested)
-- Half-Life 2 Deathmatch (Not Tested)
+- Counter-Strike Source
+- Half-Life 2 Deathmatch
 - Left 4 Dead 2 (Not Tested)
 - Left 4 Dead 1 (Not Tested)
 
