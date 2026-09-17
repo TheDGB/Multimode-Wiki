@@ -51,7 +51,7 @@ Inspirado no Map Chooser do SourceMod e no UMC (Ultimate Map Chooser).
 - Left 4 Dead 1 (Não testado ainda)
 
 ## Wiki
-Você pode acessar nossa wiki do Multimode Core+ para obter mais informações sobre o plugin!
+Você pode acessar nossa wiki do Multimode Core++ para obter mais informações sobre o plugin!
 
 #### [Multimode Core++ Wiki](https://github.com/TheDGB/Multimode-Wiki/wiki)
 
