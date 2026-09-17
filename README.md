@@ -2,7 +2,7 @@
 
 <div align="center">
 
-⚠️ **Multimode Core+ is now a paid project.** Please read the following section before continuing.
+⚠️ **Multimode Core++ is now a paid project.** Please read the following section before continuing.
 
 🇧🇷 Versão Brasileira aqui! > https://github.com/TheDGB/Multimode-Wiki/tree/main-br
 
@@ -10,7 +10,7 @@
 
 ---
 
-## ⚠️ Why is Multimode Core+ now paid?
+## ⚠️ Why is Multimode Core++ now paid?
 
 I’ve been thinking about the project these past few days and came to a conclusion: I wanted to turn this into a paid project, where you can pay a small amount of money and get our project in your hands.
 
