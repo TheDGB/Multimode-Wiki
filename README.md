@@ -1,14 +1,14 @@
-<h1 align=center>Multimode Core+ 3.0.0+ VERSÃO BRASILEIRA.</h1>
+<h1 align=center>Multimode Core++ 3.0.0+ VERSÃO BRASILEIRA.</h1>
 
 <div align="center">
 
-⚠️ **O Multimode Core+ agora é um projeto pago.** Por favor, leia a seção a seguir antes de continuar.
+⚠️ **O Multimode Core++ agora é um projeto pago.** Por favor, leia a seção a seguir antes de continuar.
 
 </div>
 
 ---
 
-## ⚠️ Por que o Multimode Core+ agora é pago?
+## ⚠️ Por que o Multimode Core++ agora é pago?
 
 Estava pensando sobre o projeto esses dias e cheguei a uma conclusão: quero tornar esse projeto um projeto pago, em que você pode pagar uma certa quantidade barata de dinheiro e ter o nosso projeto em mãos.
 
@@ -53,7 +53,7 @@ Inspirado no Map Chooser do SourceMod e no UMC (Ultimate Map Chooser).
 ## Wiki
 Você pode acessar nossa wiki do Multimode Core+ para obter mais informações sobre o plugin!
 
-#### [Multimode Core+ Wiki](https://github.com/TheDGB/Multimode-Wiki/wiki)
+#### [Multimode Core++ Wiki](https://github.com/TheDGB/Multimode-Wiki/wiki)
 
 # Doações
 
