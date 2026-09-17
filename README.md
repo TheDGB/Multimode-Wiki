@@ -1,4 +1,4 @@
-<h1 align=center>Multimode Core+ 3.0.0+</h1>
+<h1 align=center>Multimode Core++ 3.0.0+</h1>
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Do you have a suggestion for the plugin? You can make a **pull request!**
 - Left 4 Dead 1 (Not Tested)
 
 ## Wiki
-You can head over to our Multimode Core+ wiki for more information about the plugin!
+You can head over to our Multimode Core+_ wiki for more information about the plugin!
 
 #### [Multimode Core+ Wiki](https://github.com/TheDGB/Multimode-Wiki/wiki)
 
